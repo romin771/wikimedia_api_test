@@ -45,6 +45,10 @@ To run this test, you'll need to have Python, pytest, and the following Python p
    pip install requests
    pip install datetime
 
+* Note 
+     If you still struggeling with pip installation, you can simple open the project in your IDE, Go to Preferences, Go to Project, Go to Python Interpreter, click on (+) sign, Search for all these packages and install them one by one. 
+
+
 
 4. **Run the Test**
    While you are in the test directory or you have IDE terminal open,  run the test using pytest:
