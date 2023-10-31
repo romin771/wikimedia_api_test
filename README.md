@@ -31,10 +31,11 @@ To run this test, you'll need to have Python, pytest, and the following Python p
 - datetime
 
 1. **Clone this Repository**
-     Clone this repository to your local machine with git clone or download it as a ZIP file.
+     Clone this repository to your local machine with git clone or download it as a ZIP file, extract it.
 
 2. **Install Packages**
    If you don't have Python installed, download and install it from : [python.org](https://www.python.org/downloads/).
+     You also need to have Pip install on your machine in order to be able to install the other packages. You can install pip from : ([https://pip.pypa.io/en/stable/installation/](https://packaging.python.org/en/latest/tutorials/installing-packages/))
 
    and for installing the rest of the packages, navigate to the directory where this test (test_wikimedia_search_api.py) is located. Open a terminal or command prompt, Or open the project and inside the terminal of your IDE follow the steps:
 
